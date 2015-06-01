@@ -1,4 +1,4 @@
 # cobasync
 
 inimah keren pisan
-coba kalo kita buat conflict di client bagaimana ceritanya?
+Ternyata SparkleShare mengunduh changes dari server hanya bila dia hendak upload saja
